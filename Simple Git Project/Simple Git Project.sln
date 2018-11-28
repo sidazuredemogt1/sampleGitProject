@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Git Project", "Simple Git Project\Simple Git Project.csproj", "{5E1E83B4-0E36-452A-A2FE-D64134753CB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGitProject", "SimpleGitProject\SimpleGitProject.csproj", "{4E534ED5-01E6-4CE1-B65D-08321811F814}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5E1E83B4-0E36-452A-A2FE-D64134753CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E1E83B4-0E36-452A-A2FE-D64134753CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E1E83B4-0E36-452A-A2FE-D64134753CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E534ED5-01E6-4CE1-B65D-08321811F814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E534ED5-01E6-4CE1-B65D-08321811F814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E534ED5-01E6-4CE1-B65D-08321811F814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E534ED5-01E6-4CE1-B65D-08321811F814}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
